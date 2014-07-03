@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2014-07-03
+  usage_percentage: 9.99
+  usage_hours: 1
+  usage_minutes: 1
+  usage_seconds: 1
+  notes: MyText
+
+two:
+  date: 2014-07-03
+  usage_percentage: 9.99
+  usage_hours: 1
+  usage_minutes: 1
+  usage_seconds: 1
+  notes: MyText
