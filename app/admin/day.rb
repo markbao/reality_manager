@@ -1,4 +1,5 @@
 ActiveAdmin.register Day do
+  permit_params :date, :usage_percentage, :usage_hours, :usage_minutes, :usage_seconds, :notes
 
   
   # See permitted parameters documentation:
